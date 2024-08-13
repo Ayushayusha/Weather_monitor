@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Weather_monitor/static/css/main.d5329d72.css",
+    "main.js": "/Weather_monitor/static/js/main.f5e070df.js",
+    "static/js/592.653a6a55.chunk.js": "/Weather_monitor/static/js/592.653a6a55.chunk.js",
+    "static/media/wallpaper.jpg": "/Weather_monitor/static/media/wallpaper.82b1256d83cd3ef8a0c6.jpg",
+    "service-worker.js": "/Weather_monitor/service-worker.js",
+    "index.html": "/Weather_monitor/index.html",
+    "main.d5329d72.css.map": "/Weather_monitor/static/css/main.d5329d72.css.map",
+    "main.f5e070df.js.map": "/Weather_monitor/static/js/main.f5e070df.js.map",
+    "592.653a6a55.chunk.js.map": "/Weather_monitor/static/js/592.653a6a55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5329d72.css",
+    "static/js/main.f5e070df.js"
+  ]
+}
